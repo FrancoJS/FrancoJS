@@ -6,58 +6,53 @@
   <a href="https://www.linkedin.com/in/jean-franco-jara">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Perfil Profesional
 
-Soy **Jean Franco Jara Sáez**, graduado de **Analista Programador** y estudiante de **Ingeniería en Informática**. 
-Me especializo en el desarrollo de arquitecturas escalables y seguras en el lado del servidor.
+Soy **Jean Franco Jara Sáez**, **Analista Programador** egresado y actual estudiante de **Ingeniería en Informática**. Me especializo en el diseño de APIs seguras y arquitecturas escalables utilizando el ecosistema de **Node.js**.
 
-🚀 Actualmente trabajando en: **Zen Logistics** (SaaS de Logística)  
-🧪 Interés actual: Implementación de Testing robusto con **Jest** y certificaciones en **GCP**.
+🚀 Actualmente trabajando en: **Zen Logistics** (SaaS de Logística).
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Actividad y Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoSJ&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&display_format=v2" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoSJ&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancoJS&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_rank=true&show_owner=true" height="180" />
 </p>
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Habilidades Técnicas
 
-**Core Development**
-<div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+**Backend & Lenguajes**
+
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</div>
+
+**Bases de Datos & ORM**
+
+<div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </div>
 
-<br />
+**Herramientas & Frontend**
 
-**DevOps & Tools**
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</div>
-
----
-
-### ⚡ Mis Últimos Proyectos
-* **Zen Logistics:** Backend complejo para gestión de suministros.
-* **Talkspace:** Sistema de chat en tiempo real con WebSockets.
-
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </div>
