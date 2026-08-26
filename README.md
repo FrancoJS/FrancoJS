@@ -30,14 +30,6 @@ Building a SaaS platform focused on the commercial and operational management of
 
 `Docker` · `Git` · `GitHub` · `Postman`
 
-## Projects
-
-### Zen Logistics
-
-Logistics management platform built with **NestJS, PostgreSQL, Redis and Docker**, following a modular monolith architecture.
-
-[View Repository](https://github.com/FrancoJS/ZenLogistics)
-
 ## Interests
 
 `Software Architecture` · `Cloud` · `System Integration` · `APIs` · `DevSecOps`
