@@ -1,57 +1,31 @@
-<div align="center">
+# Jean Franco Jara
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=47A1FF&center=true&vCenter=true&width=500&lines=Jean+Franco+Jara;Backend+Developer;DevSecOps+Enthusiast)](https://git.io/typing-svg)
+Backend Developer · Software Engineering Student
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jean-franco-jara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I build backend applications, REST APIs and scalable systems mainly with **Node.js, NestJS and TypeScript**.
 
----
+Currently studying **Ingeniería en Informática** and working on SaaS and software projects focused on real-world business problems.
 
-### 👨‍💻 Perfil Profesional
+## Tech Stack
 
-Soy **Jean Franco Jara Sáez**, **Analista Programador** egresado y actual estudiante de **Ingeniería en Informática**. Me especializo en el diseño de APIs seguras y arquitecturas escalables utilizando el ecosistema de **Node.js**.
+**Backend**
 
-🚀 Actualmente trabajando en: **Zen Logistics** (SaaS de Logística).
+`Node.js` · `NestJS` · `Express` · `TypeScript` · `Python`
 
----
+**Databases**
 
-### 📊 Actividad y Lenguajes
+`PostgreSQL` · `MongoDB` · `Redis` · `TypeORM`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoJS&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_rank=true&show_owner=true" height="180" />
-</p>
+**Tools**
 
----
+`Docker` · `Git` · `GitHub` · `Angular`
 
-### 🛠️ Habilidades Técnicas
+## Currently
 
-**Backend & Lenguajes**
+* Building **Zen Logistics**, a logistics SaaS platform.
+* Improving my knowledge of backend architecture and cloud technologies.
+* Exploring DevSecOps and secure software development.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</div>
+## Contact
 
-**Bases de Datos & ORM**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</div>
-
-**Herramientas & Frontend**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</div>
+[LinkedIn](https://www.linkedin.com/in/jean-franco-jara)
