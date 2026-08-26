@@ -1,10 +1,16 @@
 # Jean Franco Jara
 
-Backend Developer · Software Engineering Student
+Backend Developer · Computer Engineering Student
 
-I build backend applications, REST APIs and scalable systems mainly with **Node.js, NestJS and TypeScript**.
+I build web applications, REST APIs and scalable systems using **Angular, NestJS, TypeScript and PostgreSQL**.
 
-Currently studying **Ingeniería en Informática** and working on SaaS and software projects focused on real-world business problems.
+Currently studying **Computer Engineering** and working on SaaS products focused on solving real-world business problems.
+
+## Currently
+
+**Co-Founder & Software Developer at Reflex 360**
+
+Building a SaaS platform focused on the commercial and operational management of **medical representatives**, including client management, visit scheduling, activity tracking and business workflows.
 
 ## Tech Stack
 
@@ -12,19 +18,29 @@ Currently studying **Ingeniería en Informática** and working on SaaS and softw
 
 `Node.js` · `NestJS` · `Express` · `TypeScript` · `Python`
 
+**Frontend**
+
+`Angular` · `Tailwind CSS`
+
 **Databases**
 
-`PostgreSQL` · `MongoDB` · `Redis` · `TypeORM`
+`PostgreSQL` · `Redis` · `MongoDB`
 
 **Tools**
 
-`Docker` · `Git` · `GitHub` · `Angular`
+`Docker` · `Git` · `GitHub` · `Postman`
 
-## Currently
+## Projects
 
-* Building **Zen Logistics**, a logistics SaaS platform.
-* Improving my knowledge of backend architecture and cloud technologies.
-* Exploring DevSecOps and secure software development.
+### Zen Logistics
+
+Logistics management platform built with **NestJS, PostgreSQL, Redis and Docker**, following a modular monolith architecture.
+
+[View Repository](https://github.com/FrancoJS/ZenLogistics)
+
+## Interests
+
+`Software Architecture` · `Cloud` · `System Integration` · `APIs` · `DevSecOps`
 
 ## Contact
 
